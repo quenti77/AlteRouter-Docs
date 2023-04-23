@@ -1,0 +1,1 @@
+import{_ as s,c as a,o as l,N as n}from"./chunks/framework.5e1c669d.js";const A=JSON.parse('{"title":"AlteRouter","description":"","frontmatter":{},"headers":[],"relativePath":"api/alterouter.md"}'),o={name:"api/alterouter.md"},e=n("",33),p=[e];function t(c,r,y,D,F,C){return l(),a("div",null,p)}const u=s(o,[["render",t]]);export{A as __pageData,u as default};
